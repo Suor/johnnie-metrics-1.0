@@ -1,4 +1,0 @@
-[core]
-    remote = mys3
-['remote "mys3"']
-    url = s3://dvc-temp/dmitry/johnnie/
